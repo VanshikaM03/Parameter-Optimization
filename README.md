@@ -1,7 +1,4 @@
 "# Parameter-Optimization" 
-Here's a template for your README file based on the project requirements:
-
----
 
 # SVM Optimization on Multi-Class Dataset
 
